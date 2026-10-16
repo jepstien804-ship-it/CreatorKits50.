@@ -1,0 +1,11 @@
+name: CreatorKits50
+version: 1.0.0
+main: com.example.creatorkits.CreatorKitsPlugin
+api-version: '1.21'
+author: OpenAI
+description: 50 fan-made Minecraft SMP creator-inspired kits.
+commands:
+  kit:
+    description: List and claim creator kits.
+    usage: /kit <name|list>
+    aliases: [creatorkit, creatorkits]

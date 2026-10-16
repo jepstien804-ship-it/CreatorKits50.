@@ -1,0 +1,755 @@
+# Fan-made kits; creator names are themes only.
+settings:
+  cooldown-seconds: 30
+  kit-permission: false
+kits:
+  parrot:
+    display-name: "&6Parrot Kit"
+    description: "Fast clutch and mobility"
+    effect: SPEED
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - ENDER_PEARL:2
+      - DIAMOND_SWORD:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  wemmbu:
+    display-name: "&6Wemmbu Kit"
+    description: "Durable frontline fighter"
+    effect: DAMAGE_RESISTANCE
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - NETHERITE_SWORD:1
+      - SHIELD:1
+      - ENDER_PEARL:2
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  spoke:
+    display-name: "&6Spoke Kit"
+    description: "Tactical ranged kit"
+    effect: SLOW_FALLING
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - CROSSBOW:1
+      - ARROW:32
+      - IRON_SWORD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  branzy:
+    display-name: "&6Branzy Kit"
+    description: "Bruiser built for trades"
+    effect: ABSORPTION
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_AXE:1
+      - SHIELD:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  rekrap2:
+    display-name: "&6rekrap2 Kit"
+    description: "Mobile hunter"
+    effect: SPEED
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - BOW:1
+      - ARROW:32
+      - DIAMOND_SWORD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  flamefrags:
+    display-name: "&6FlameFrags Kit"
+    description: "Aggressive fire-themed kit"
+    effect: FIRE_RESISTANCE
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_SWORD:1
+      - FIRE_CHARGE:4
+      - GOLDEN_APPLE:2
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  clownpierce:
+    display-name: "&6ClownPierce Kit"
+    description: "Heavy-hitting duelist"
+    effect: STRENGTH
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - NETHERITE_AXE:1
+      - SHIELD:1
+      - ENDER_PEARL:2
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  mapicc:
+    display-name: "&6Mapicc Kit"
+    description: "Stealthy ambush kit"
+    effect: NIGHT_VISION
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_SWORD:1
+      - ENDER_PEARL:3
+      - CROSSBOW:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  ashswag:
+    display-name: "&6Ashswag Kit"
+    description: "Water mobility kit"
+    effect: DOLPHINS_GRACE
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - TRIDENT:1
+      - WATER_BUCKET:1
+      - BOW:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  princezam:
+    display-name: "&6PrinceZam Kit"
+    description: "Sustain-focused fighter"
+    effect: REGENERATION
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_SWORD:1
+      - GOLDEN_APPLE:4
+      - SHIELD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  kaboodle:
+    display-name: "&6Kaboodle Kit"
+    description: "Evasive movement kit"
+    effect: JUMP_BOOST
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - BOW:1
+      - ARROW:32
+      - SNOWBALL:16
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  minutetech:
+    display-name: "&6MinuteTech Kit"
+    description: "Quick ranged combat"
+    effect: SPEED
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - CROSSBOW:1
+      - FIREWORK_ROCKET:8
+      - IRON_SWORD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  jumperwho:
+    display-name: "&6JumperWho Kit"
+    description: "Mobility and repositioning"
+    effect: JUMP_BOOST
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - ENDER_PEARL:4
+      - DIAMOND_SWORD:1
+      - FEATHER:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  sharpness:
+    display-name: "&6Sharpness Kit"
+    description: "Direct melee kit"
+    effect: STRENGTH
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - NETHERITE_SWORD:1
+      - SHIELD:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  reddoons:
+    display-name: "&6Reddoons Kit"
+    description: "Ranged and trident kit"
+    effect: DOLPHINS_GRACE
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - TRIDENT:1
+      - BOW:1
+      - ARROW:32
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  vitalasy:
+    display-name: "&6Vitalasy Kit"
+    description: "Sturdy axe fighter"
+    effect: ABSORPTION
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_AXE:1
+      - SHIELD:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  princezam2:
+    display-name: "&6PrinceZam Kit"
+    description: "Secondary ranged loadout"
+    effect: SPEED
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - CROSSBOW:1
+      - ARROW:32
+      - DIAMOND_SWORD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  spoke2:
+    display-name: "&6Spoke Kit"
+    description: "Sneaky escape kit"
+    effect: INVISIBILITY
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - ENDER_PEARL:3
+      - GOLDEN_APPLE:3
+      - IRON_SWORD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  clownpierce2:
+    display-name: "&6ClownPierce Kit"
+    description: "High-pressure dueling"
+    effect: STRENGTH
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - NETHERITE_SWORD:1
+      - ENDER_PEARL:3
+      - GOLDEN_APPLE:2
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  parrot2:
+    display-name: "&6Parrot Kit"
+    description: "Ranged hit-and-run"
+    effect: SPEED
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - BOW:1
+      - ARROW:32
+      - ENDER_PEARL:2
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  sb737:
+    display-name: "&6SB737 Kit"
+    description: "Survival-ready balanced kit"
+    effect: REGENERATION
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_SWORD:1
+      - SHIELD:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  tommyinnit:
+    display-name: "&6TommyInnit Kit"
+    description: "Chaotic all-rounder"
+    effect: SPEED
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - IRON_SWORD:1
+      - CROSSBOW:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  technoblade:
+    display-name: "&6Technoblade Kit"
+    description: "Heavy combat kit"
+    effect: STRENGTH
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_AXE:1
+      - DIAMOND_SWORD:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  dream:
+    display-name: "&6Dream Kit"
+    description: "Chase and clutch kit"
+    effect: SPEED
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_SWORD:1
+      - ENDER_PEARL:4
+      - BOW:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  georgenotfound:
+    display-name: "&6GeorgeNotFound Kit"
+    description: "Tracking and ranged kit"
+    effect: NIGHT_VISION
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - BOW:1
+      - ARROW:32
+      - IRON_SWORD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  sapnap:
+    display-name: "&6Sapnap Kit"
+    description: "Explosive brawler"
+    effect: FIRE_RESISTANCE
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_AXE:1
+      - FIRE_CHARGE:4
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  badboyhalo:
+    display-name: "&6BadBoyHalo Kit"
+    description: "Defensive support"
+    effect: REGENERATION
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - SHIELD:1
+      - DIAMOND_SWORD:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  skeppy:
+    display-name: "&6Skeppy Kit"
+    description: "Tricky movement kit"
+    effect: JUMP_BOOST
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_SWORD:1
+      - SNOWBALL:16
+      - ENDER_PEARL:2
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  purpled:
+    display-name: "&6Purpled Kit"
+    description: "Precision PvP kit"
+    effect: SPEED
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - NETHERITE_SWORD:1
+      - ENDER_PEARL:3
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  fruitberries:
+    display-name: "&6Fruitberries Kit"
+    description: "Movement-focused kit"
+    effect: SPEED
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_SWORD:1
+      - BOW:1
+      - ENDER_PEARL:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  feinberg:
+    display-name: "&6Feinberg Kit"
+    description: "Resourceful melee kit"
+    effect: HASTE
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_AXE:1
+      - SHIELD:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  clownpierce3:
+    display-name: "&6ClownPierce Kit"
+    description: "Heavy melee variation"
+    effect: STRENGTH
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - NETHERITE_AXE:1
+      - SHIELD:1
+      - ENDER_PEARL:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  punz:
+    display-name: "&6Punz Kit"
+    description: "Flexible duelist"
+    effect: SPEED
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_SWORD:1
+      - BOW:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  antfrost:
+    display-name: "&6Antfrost Kit"
+    description: "Careful ranged kit"
+    effect: NIGHT_VISION
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - CROSSBOW:1
+      - ARROW:32
+      - DIAMOND_SWORD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  hannahxxrose:
+    display-name: "&6Hannahxxrose Kit"
+    description: "Quick PvP kit"
+    effect: SPEED
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_SWORD:1
+      - BOW:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  violet:
+    display-name: "&6Violet Kit"
+    description: "Water-control kit"
+    effect: DOLPHINS_GRACE
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - TRIDENT:1
+      - BOW:1
+      - WATER_BUCKET:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  shadoune666:
+    display-name: "&6Shadoune666 Kit"
+    description: "Pressure fighter"
+    effect: STRENGTH
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_SWORD:1
+      - SHIELD:1
+      - ENDER_PEARL:2
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  elmariana:
+    display-name: "&6ElMariana Kit"
+    description: "Dependable survival kit"
+    effect: REGENERATION
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - IRON_SWORD:1
+      - BOW:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  quackity:
+    display-name: "&6Quackity Kit"
+    description: "Disruptive ranged kit"
+    effect: SPEED
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - CROSSBOW:1
+      - FIREWORK_ROCKET:8
+      - IRON_SWORD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  wilbursoot:
+    display-name: "&6WilburSoot Kit"
+    description: "Strategic ranged kit"
+    effect: SLOW_FALLING
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - BOW:1
+      - ARROW:32
+      - IRON_SWORD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  philza:
+    display-name: "&6Philza Kit"
+    description: "Survivalist kit"
+    effect: SLOW_FALLING
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_SWORD:1
+      - SHIELD:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  smallishbeans:
+    display-name: "&6SmallishBeans Kit"
+    description: "Nimble axe kit"
+    effect: JUMP_BOOST
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_AXE:1
+      - SHIELD:1
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  grian:
+    display-name: "&6Grian Kit"
+    description: "Clever skirmisher"
+    effect: SLOW_FALLING
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - BOW:1
+      - ARROW:32
+      - DIAMOND_SWORD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  mumbojumbo:
+    display-name: "&6MumboJumbo Kit"
+    description: "Utility ranged kit"
+    effect: NIGHT_VISION
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - CROSSBOW:1
+      - ARROW:32
+      - SHIELD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  ldshadowlady:
+    display-name: "&6LDShadowLady Kit"
+    description: "Balanced defense kit"
+    effect: REGENERATION
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_SWORD:1
+      - GOLDEN_APPLE:3
+      - SHIELD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  joel:
+    display-name: "&6Joel Kit"
+    description: "Aggressive melee kit"
+    effect: STRENGTH
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_AXE:1
+      - ENDER_PEARL:2
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  geminitay:
+    display-name: "&6GeminiTay Kit"
+    description: "Composed all-rounder"
+    effect: REGENERATION
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - BOW:1
+      - ARROW:32
+      - DIAMOND_SWORD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  impulsesv:
+    display-name: "&6ImpulseSV Kit"
+    description: "Utility-focused kit"
+    effect: HASTE
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - CROSSBOW:1
+      - ARROW:32
+      - DIAMOND_SWORD:1
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  goodtimeswithscar:
+    display-name: "&6GoodTimesWithScar Kit"
+    description: "Survival and ranged kit"
+    effect: SLOW_FALLING
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - BOW:1
+      - ARROW:32
+      - GOLDEN_APPLE:3
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
+  iskall85:
+    display-name: "&6Iskall85 Kit"
+    description: "Versatile explorer-combat kit"
+    effect: HASTE
+    effect-duration-seconds: 20
+    effect-amplifier: 0
+    items:
+      - DIAMOND_SWORD:1
+      - SHIELD:1
+      - ENDER_PEARL:2
+    armor:
+      - IRON_HELMET:1
+      - IRON_CHESTPLATE:1
+      - IRON_LEGGINGS:1
+      - IRON_BOOTS:1
